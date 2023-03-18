@@ -1,14 +1,17 @@
 name: Waka Readme
-
+ 
 on:
   push:
     branches:
       - master
+  workflow_dispatch:
   schedule:
-    - cron: '10 * * * *'
-
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+ 
 jobs:
   update-readme:
+    name: Update this repo's README 
     runs-on: ubuntu-latest
     steps:
       - uses: quincysky/waka-readme@master
