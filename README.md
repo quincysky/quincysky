@@ -8,7 +8,5 @@ I'm quincy, a postgraduate student from Tianjin, China.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Badmintons
 
-![](https://github-readme-stats.vercel.app/api?username=quincysky)
-
 
 
