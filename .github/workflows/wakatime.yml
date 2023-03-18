@@ -1,6 +1,7 @@
 name: Waka Readme
  
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
