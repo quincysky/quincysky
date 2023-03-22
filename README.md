@@ -25,6 +25,11 @@
 <!-- #### Coding status last week ⌨️ -->
 
 <!--START_SECTION:waka-->
+
+```text
+Other            8 hrs 15 mins   █████████████████▓░░░░░░░   70.68 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/>
