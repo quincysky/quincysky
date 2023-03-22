@@ -27,7 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other            8 hrs 15 mins   █████████████████▓░░░░░░░   70.68 %
+From: 14 March 2023 - To: 21 March 2023
+
+Total Time: 11 hrs 40 mins
+
+Other            8 hrs 15 mins   >>>>>>>>>>>>>>>>>>-------   70.68 %
 ```
 
 <!--END_SECTION:waka-->
