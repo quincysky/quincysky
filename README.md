@@ -22,7 +22,7 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-<!-- #### Coding status last week ⌨️ -->
+#### Coding status last week ⌨️
 
 <!--START_SECTION:waka-->
 
