@@ -26,13 +26,13 @@
 
 <!--START_SECTION:waka-->
 
-```text
-From: 17 March 2023 - To: 22 March 2023
-
-Total Time: 5 hrs 59 mins
-
-Other            11 hrs 59 mins  >>>>>>>>>>>>>>>>>--------   66.65 %
-```
+​```text
+C++        1 hr 48 mins    ██████████░░░░░░░░░░░░░░░   39.98 % 
+Markdown   1 hr 21 mins    ███████▒░░░░░░░░░░░░░░░░░   29.93 % 
+YAML       42 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+C          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Other      9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+​```
 
 <!--END_SECTION:waka-->
 
