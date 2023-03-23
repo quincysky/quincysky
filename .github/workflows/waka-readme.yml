@@ -23,4 +23,5 @@ jobs:
           SHOW_TIME: true
           TIME_RANGE: all_time
           # SHOW_MASKED_TIME: true
+          SHOW_TOTAL: true
           LANG_COUNT: 10
