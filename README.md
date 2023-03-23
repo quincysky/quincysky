@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 March 2023 - To: 21 March 2023
+From: 17 March 2023 - To: 22 March 2023
 
-Total Time: 11 hrs 40 mins
+Total Time: 17 hrs 59 mins
 
-Other            8 hrs 15 mins   >>>>>>>>>>>>>>>>>>-------   70.68 %
+Other            11 hrs 59 mins  >>>>>>>>>>>>>>>>>--------   66.65 %
 ```
 
 <!--END_SECTION:waka-->
