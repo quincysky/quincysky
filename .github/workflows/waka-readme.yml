@@ -1,9 +1,6 @@
 name: Waka Readme
  
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
@@ -11,10 +8,11 @@ on:
  
 jobs:
   update-readme:
-    permissions: write-all
     name: Update this repo's README 
     runs-on: ubuntu-latest
     steps:
       - uses: quincysky/waka-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_LOC_CHART: False
