@@ -25,6 +25,8 @@
 #### Coding status last week ⌨️
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%2030%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -66,16 +68,19 @@ Sunday                   43 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   15 mins             ███████████░░░░░░░░░░░░░░   43.38 % 
+Other                    12 mins             █████████░░░░░░░░░░░░░░░░   36.15 % 
+SSH Config               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,7 +95,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 00:53:50 UTC
+ Last Updated on 08/12/2023 00:54:08 UTC
 <!--END_SECTION:waka-->
 
 <br/>
