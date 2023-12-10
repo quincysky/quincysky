@@ -25,7 +25,7 @@
 #### Coding status last week ⌨️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,7 +98,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/12/2023 00:52:30 UTC
+ Last Updated on 10/12/2023 00:57:20 UTC
 <!--END_SECTION:waka-->
 
 <br/>
