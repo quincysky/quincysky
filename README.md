@@ -68,17 +68,16 @@ Sunday                   43 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Go                       2 hrs 49 mins       ███████████████████████░░   92.09 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   3 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tendermint               3 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -93,7 +92,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2024 00:50:23 UTC
+ Last Updated on 07/02/2024 00:48:49 UTC
 <!--END_SECTION:waka-->
 
 <br/>
