@@ -25,15 +25,13 @@
 #### Coding status last week ⌨️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,7 +93,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2024 00:52:44 UTC
+ Last Updated on 12/05/2024 00:57:45 UTC
 <!--END_SECTION:waka-->
 
 <br/>
