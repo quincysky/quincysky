@@ -68,19 +68,16 @@ Sunday                   43 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 hr 9 mins         █████████████████████░░░░   82.30 % 
-MATLAB                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Matlab                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -95,7 +92,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2024 00:54:23 UTC
+ Last Updated on 18/05/2024 00:53:28 UTC
 <!--END_SECTION:waka-->
 
 <br/>
