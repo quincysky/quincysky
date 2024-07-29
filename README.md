@@ -33,8 +33,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -92,7 +90,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2024 01:03:24 UTC
+ Last Updated on 29/07/2024 01:00:20 UTC
 <!--END_SECTION:waka-->
 
 <br/>
